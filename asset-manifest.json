@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/viniciusromaodossantos/CV.git/static/css/main.5c67aeb6.chunk.css",
-    "main.js": "/viniciusromaodossantos/CV.git/static/js/main.3fa657f6.chunk.js",
-    "main.js.map": "/viniciusromaodossantos/CV.git/static/js/main.3fa657f6.chunk.js.map",
-    "runtime~main.js": "/viniciusromaodossantos/CV.git/static/js/runtime~main.51e94226.js",
-    "runtime~main.js.map": "/viniciusromaodossantos/CV.git/static/js/runtime~main.51e94226.js.map",
-    "static/js/2.ad7aca24.chunk.js": "/viniciusromaodossantos/CV.git/static/js/2.ad7aca24.chunk.js",
-    "static/js/2.ad7aca24.chunk.js.map": "/viniciusromaodossantos/CV.git/static/js/2.ad7aca24.chunk.js.map",
-    "index.html": "/viniciusromaodossantos/CV.git/index.html",
-    "precache-manifest.e199b0dc3abf97718d7bf96816d58e7d.js": "/viniciusromaodossantos/CV.git/precache-manifest.e199b0dc3abf97718d7bf96816d58e7d.js",
-    "service-worker.js": "/viniciusromaodossantos/CV.git/service-worker.js",
-    "static/css/main.5c67aeb6.chunk.css.map": "/viniciusromaodossantos/CV.git/static/css/main.5c67aeb6.chunk.css.map"
+    "main.css": "/CV/static/css/main.5c67aeb6.chunk.css",
+    "main.js": "/CV/static/js/main.7cdf0537.chunk.js",
+    "main.js.map": "/CV/static/js/main.7cdf0537.chunk.js.map",
+    "runtime~main.js": "/CV/static/js/runtime~main.a1784256.js",
+    "runtime~main.js.map": "/CV/static/js/runtime~main.a1784256.js.map",
+    "static/js/2.ad7aca24.chunk.js": "/CV/static/js/2.ad7aca24.chunk.js",
+    "static/js/2.ad7aca24.chunk.js.map": "/CV/static/js/2.ad7aca24.chunk.js.map",
+    "index.html": "/CV/index.html",
+    "precache-manifest.72172944ad6d50d42395e0926c70707f.js": "/CV/precache-manifest.72172944ad6d50d42395e0926c70707f.js",
+    "service-worker.js": "/CV/service-worker.js",
+    "static/css/main.5c67aeb6.chunk.css.map": "/CV/static/css/main.5c67aeb6.chunk.css.map"
   }
 }
