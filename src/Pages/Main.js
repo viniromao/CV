@@ -1,15 +1,14 @@
 import React from 'react';
-import jpg from "/home/vinicius/Público/cv-vinicius/src/12360163_904882306265480_7113064388964326956_n.jpg";
-import './App.css';
-import {Link} from 'react-router-dom';
+import "../CSS/Main.css";
 
-function App() {
+
+function Main() {
   
   return (
     <div className="App">
-      <header className="App-header ">
+      <header className="header ">
    
-      <img className="image" src={jpg} alt="portrait"></img>
+     
         <code
           className="App-link textAnimation"
           href="https://reactjs.org"
@@ -20,18 +19,15 @@ function App() {
        <br></br>
           Have you seen my work?
         </code>
-        <Link to="/Main">
         <button className="buttonStyle" variant="outlined">
-        <code>Let's see!</code>
-         
-       
-       
+          <code>
+        Let's see!!
+        </code>
       </button>
-      </Link>
       </header>
     </div>
   );
 }
 
-export default App;
+export default Main;
  
